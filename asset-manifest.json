@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/androidjavashashank/bachpanpage/static/css/main.f855e6bc.css",
+    "main.js": "/androidjavashashank/bachpanpage/static/js/main.6ff368d5.js",
+    "static/js/453.ea77249e.chunk.js": "/androidjavashashank/bachpanpage/static/js/453.ea77249e.chunk.js",
+    "static/media/logo.svg": "/androidjavashashank/bachpanpage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/androidjavashashank/bachpanpage/index.html",
+    "main.f855e6bc.css.map": "/androidjavashashank/bachpanpage/static/css/main.f855e6bc.css.map",
+    "main.6ff368d5.js.map": "/androidjavashashank/bachpanpage/static/js/main.6ff368d5.js.map",
+    "453.ea77249e.chunk.js.map": "/androidjavashashank/bachpanpage/static/js/453.ea77249e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.6ff368d5.js"
+  ]
+}
